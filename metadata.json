@@ -1,0 +1,7 @@
+{
+  "name": "Elegance Wedding Invitation & Planner",
+  "description": "A sophisticated, interactive wedding invitation platform featuring RSVP management, an interactive table seating planner, real-time countdown, and an AI-powered guest assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
