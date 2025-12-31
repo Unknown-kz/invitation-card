@@ -33,9 +33,9 @@ export const WEDDING_DETAILS = {
     { name: 'Қою қола', hex: '#4A3728' }
   ],
   music: [
-    { id: 1, title: "Құрманғазы - Адай", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" }, // Keep playable mp3 for functionality
-    { id: 2, title: "Алтын Вальс", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
-    { id: 3, title: "Той Бастар", url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3" }
+    { id: 1, title: "Махаббат Мелодиясы", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+    { id: 2, title: "Алтын Вальс", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+    { id: 3, title: "Той Бастар", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }
   ]
 };
 
