@@ -21,3 +21,8 @@ export interface ScheduleItem {
   title: string;
   description?: string;
 }
+
+export interface VenueImage {
+  id: string;
+  url: string;
+}

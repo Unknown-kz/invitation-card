@@ -48,10 +48,10 @@ export const SCHEDULE: ScheduleItem[] = [
 ];
 
 export const TABLES_CONFIG = [
-  { id: 1, name: "Құрметті қонақтар", capacity: 8 },
-  { id: 2, name: "Достар аймағы", capacity: 10 },
-  { id: 3, name: "Туыстар (А)", capacity: 10 },
-  { id: 4, name: "Туыстар (Ә)", capacity: 10 },
+  { id: 1, name: "Құрметті қонақтар", capacity: 12 },
+  { id: 2, name: "Достар аймағы", capacity: 12 },
+  { id: 3, name: "Туыстар (А)", capacity: 12 },
+  { id: 4, name: "Туыстар (Ә)", capacity: 12 },
   { id: 5, name: "Жастар үстелі", capacity: 12 },
-  { id: 6, name: "Бас отбасылық үстел", capacity: 8 },
+  { id: 6, name: "Бас отбасылық үстел", capacity: 12 },
 ];
